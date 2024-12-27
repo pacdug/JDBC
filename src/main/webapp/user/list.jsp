@@ -4,7 +4,7 @@
 <html>
 <head>
     <title>User Management Application</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 <center>
